@@ -18,7 +18,7 @@ Experience : Freelance + Internship
 &nbsp;⚗️ &nbsp;Pursuing **B.Tech CSE** with CGPA 8.0, graduating 2027  
 &nbsp;🌍 &nbsp;Worked across **India & Kuwait** in cross-cultural agile teams  
 &nbsp;💬 &nbsp;Ask me about **React, REST APIs, AR Systems & AI-Powered Apps**
-&nbsp;🌍 &nbsp;Portfolio : https://mohamednoushad2006.github.io/My_Portfolio/
+&nbsp;🌍 &nbsp;Portfolio : https://mohamednoushad2006.github.io/Mohamed_Noushad_Portfolio/
 <br clear="right"/>
 
 
